@@ -1,0 +1,27 @@
+#1) მომხმარებელს მოთხოვეთ მათი სახელი და ასაკი, გამოიტანეთ ასე:
+"Hello (name), you are (age) years old"
+
+print("Hello", input("Enter your name:") + ", you are " + input
+      ("Enter your age:") + " years old")
+
+
+
+#2) მომხმარებელს მოთხოვეთ მათი საყვარელი საჭმელი და გამოიტანეთ 
+# ასე: "(food) მეც მიყვარს"
+
+
+print(input("Enter your favorite food:") + " I love it too")
+
+
+#3) (hard) მომხმარებელს მოთხოვეთ ჩაწეროს რაიმე რიცხვი ან მოკლე ტექტი
+#(სტრინგის სახის) და ის ტექსტი გამოიტანეთ ოთხკუთხედში, მაგალითად: 
+#########
+# სალამი #
+#########
+
+text = input("Enter any number or short text:")
+
+
+#######
+# 123 #
+#######
